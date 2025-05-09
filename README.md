@@ -1,4 +1,3 @@
-```markdown
 # QR Code Generator
 
 Java Spring Boot project for QR Code generation and AWS S3 integration for storage.
@@ -9,7 +8,7 @@ Java Spring Boot project for QR Code generation and AWS S3 integration for stora
 - Spring Boot
 - Maven
 - AWS S3
-```
+
 ## How to run locally
 
 
